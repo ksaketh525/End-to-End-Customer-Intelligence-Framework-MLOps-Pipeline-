@@ -11,6 +11,7 @@ This project is an automated Machine Learning Operations (MLOps) pipeline design
 * **Visualization:** Deploys enriched datasets to an interactive **Microsoft Power BI** Executive Dashboard.
 
 ## 📂 Folder Structure
+Create these 3 below folders in project folder.
 * `/1_Raw_Dropzone` - Where daily CSV files are dropped.
 * `/2_Processed_Archive` - Storage for processed raw files.
 * `/3_Live_Database` - Contains the `Master_Intelligence_Data.csv` feeding Power BI.
